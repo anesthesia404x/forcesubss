@@ -49,13 +49,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 <p align="center"><b>☣ ғᴏʀᴋ ᴅᴇᴘʟᴏʏ ɪs ғᴜᴄᴋɪɴ ʀᴇᴄᴏᴍᴍᴇɴᴅᴇᴅ ☣</b></p>
 
-<p align="center">[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br></p>
-
-<a href="https://youtu.be/LCrkRTMkmzE">
-  <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
-</a><br>
-**Check This Tutorial Video on YouTube for any Help**<br>
-**Thanks to [Erich](https://t.me/ErichDaniken) and his [InFoTel](https://t.me/InFoTel_Group) for this Video**
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
 
 
 <details>
