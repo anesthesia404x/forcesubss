@@ -5,7 +5,7 @@
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
   <a href="https://t.me/xproject13">
-    &nbsp;<img src="https://img.shields.io/badge/channel-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
+    &nbsp;<img src="https://img.shields.io/badge/support-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
   <a href="https://t.me/xxxsquad18plus">
     &nbsp;<img src="https://img.shields.io/badge/support-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
