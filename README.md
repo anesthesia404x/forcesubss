@@ -43,8 +43,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 </details>
 
 ##
-### Installation
-#### Deploy on Heroku
+### 📡 Deploy on Heroku
 
 <p align="center">ᴛᴏ ʙᴇ sᴀғᴇ ғᴏʀᴋ ᴛʜɪs ʀᴇᴘᴏ ᴀɴᴅ ᴛʜᴇɴ ʜɪᴛ ᴅᴇᴘʟᴏʏ ʙᴜᴛᴛᴏɴ ғʀᴏᴍ ᴛʜᴇ ғᴜᴄᴋɪɴ ғᴏʀᴋᴇᴅ ʀᴇᴘᴏ</p>
 
@@ -112,19 +111,19 @@ I Guess This Will Be Usefull For Many People.....😇.
 * `{filename}` - file name of the Document
 * `{previouscaption}` - Original Caption
 
-#### CUSTOM_STATS
+🚀 CUSTOM_STATS
 
 * `{uptime}` - Bot Uptime
 
 </details>
 
-### Credits
+### 🏅 Credits
 
 >•<b> CodeXBotz »»</b>  <a href="https://github.com/CodeXBotz/File-Sharing-Bot" alt="CodeXBotz"> <img src="https://img.shields.io/badge/CodeXBotz-30302f?logo=github" /></a> <br>
 >• Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)<br>
 >• Our Support Group Members
 
-### Licence
+### ⚖️ Licence
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
 
 [ZERO-FILE-SHARING](https://github.com/erix-xiii/ZeroFileSharing/) is Free Software: You can use, study share and improve it at your
