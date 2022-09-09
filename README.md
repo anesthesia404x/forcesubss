@@ -119,9 +119,9 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 ### Credits
 
-- <a href="https://t.me/CodeXBotz"><img src="https://github.com/CodeXBotz/PyrogramGenStr/blob/main/resources/basiccodex-badge.svg" width="200"></a><br>
-- Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
-- Our Support Group Members
+>•<b> CodeXBotz »»</b>  <a href="https://github.com/CodeXBotz/File-Sharing-Bot" alt="CodeXBotz"> <img src="https://img.shields.io/badge/CodeXBotz-30302f?logo=github" /></a> 
+>• Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
+>• Our Support Group Members
 
 ### Licence
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
