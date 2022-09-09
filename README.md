@@ -1,4 +1,4 @@
-# File-sharing-Bot
+# Zero-File-sharing
 
 <p align="center">
   <a href="https://www.python.org">
