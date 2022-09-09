@@ -44,7 +44,11 @@ I Guess This Will Be Usefull For Many People.....😇.
 ##
 ### Installation
 #### Deploy on Heroku
-**BEFORE YOU DEPLOY ON HEROKU, YOU SHOULD FORK THE REPO AND CHANGE ITS NAME TO ANYTHING ELSE**<br>
+
+<p align="center">ᴛᴏ ʙᴇ sᴀғᴇ ғᴏʀᴋ ᴛʜɪs ʀᴇᴘᴏ ᴀɴᴅ ᴛʜᴇɴ ʜɪᴛ ᴅᴇᴘʟᴏʏ ʙᴜᴛᴛᴏɴ ғʀᴏᴍ ᴛʜᴇ ғᴜᴄᴋɪɴ ғᴏʀᴋᴇᴅ ʀᴇᴘᴏ</p>
+
+<p align="center"><b>☣ ғᴏʀᴋ ᴅᴇᴘʟᴏʏ ɪs ғᴜᴄᴋɪɴ ʀᴇᴄᴏᴍᴍᴇɴᴅᴇᴅ ☣</b></p>
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
 <a href="https://youtu.be/LCrkRTMkmzE">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
@@ -72,7 +76,9 @@ I Guess This Will Be Usefull For Many People.....😇.
 </details>
 
 <details>
-    <summary><b>Variables » </b></summary>
+    <summary><b> Variables » </b></summary>
+
+🚀 Variables
 
 * `API_HASH` Your API Hash from my.telegram.org
 * `API_ID` Your API ID from my.telegram.org
@@ -85,16 +91,19 @@ I Guess This Will Be Usefull For Many People.....😇.
 * `FORCE_SUB_CHANNEL` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
 * `PROTECT_CONTENT` Optional: True if you need to prevent files from forwarding
 
-### Extra Variables
+🚀 Extra Variables
 
 * `CUSTOM_CAPTION` put your Custom caption text if you want Setup Custom Caption, you can use HTML and <a href='https://github.com/CodeXBotz/File-Sharing-Bot/blob/main/README.md#custom_caption'>fillings</a> for formatting (only for documents)
 * `DISABLE_CHANNEL_BUTTON` Put True to Disable Channel Share Button, Default if False
 * `BOT_STATS_TEXT` put your custom text for stats command, use HTML and <a href='https://github.com/codexbotz/File-Sharing-Bot/blob/main/README.md#custom_stats'>fillings</a>
 * `USER_REPLY_TEXT` put your text to show when user sends any message, use HTML
 
+</details>
 
-### Fillings
-#### START_MESSAGE | FORCE_SUB_MESSAGE
+<details>
+    <summary><b> Fillings » </b></summary>
+
+🚀 START_MESSAGE | FORCE_SUB_MESSAGE
 
 * `{first}` - User first name
 * `{last}` - User last name
@@ -102,7 +111,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 * `{mention}` - Mention the user
 * `{username}` - Username
 
-#### CUSTOM_CAPTION
+🚀 CUSTOM_CAPTION
 
 * `{filename}` - file name of the Document
 * `{previouscaption}` - Original Caption
