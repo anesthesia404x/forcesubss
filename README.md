@@ -53,7 +53,8 @@ I Guess This Will Be Usefull For Many People.....😇.
 **Thanks to [Erich](https://t.me/ErichDaniken) and his [InFoTel](https://t.me/InFoTel_Group) for this Video**
 
 
-### Admin Commands
+<details>
+    <summary><b> Admin Commands » </b></summary>
 
 ```
 /start - start the bot or get posts
@@ -68,8 +69,10 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 /stats - checking your bot uptime
 ```
+</details>
 
-### Variables
+<details>
+    <summary><b>Variables » </b></summary>
 
 * `API_HASH` Your API Hash from my.telegram.org
 * `API_ID` Your API ID from my.telegram.org
@@ -108,6 +111,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 * `{uptime}` - Bot Uptime
 
+</details>
 
 ### Credits
 
