@@ -119,9 +119,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 ### Credits
 
--   <a href="https://t.me/CodeXBotz">
-    <img src="https://github.com/CodeXBotz/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
-  </a><br>
+- <a href="https://t.me/CodeXBotz"><img src="https://github.com/CodeXBotz/PyrogramGenStr/blob/main/resources/basiccodex-badge.svg" width="200"></a><br>
 - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
 - Our Support Group Members
 
