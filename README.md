@@ -26,20 +26,23 @@
 Telegram Bot to store Posts and Documents and it can Access by Special Links.
 I Guess This Will Be Usefull For Many People.....😇. 
 
-##
 
-**If you need any more modes in repo or If you find out any bugs, mention in [@codexbotzsupport ](https://www.telegram.dog/codexbotzsupport)**
-
-### Features
+<details>
+    <summary><b> Features » </b></summary>
 - Fully customisable.
 - Customisable welcome & Forcesub messages.
 - More than one Posts in One Link.
 - Can be deployed on heroku directly.
 
-### Setup
+</details>
+
+<details>
+    <summary><b> Setup » </b></summary>
 
 - Add the bot to Database Channel with all permission
 - Add bot to ForceSub channel as Admin with Invite Users via Link Permission if you enabled ForceSub 
+
+</details>
 
 ##
 ### Installation
@@ -125,7 +128,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 ### Licence
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
 
-[FILE-SHARING-BOT](https://github.com/CodeXBotz/File-Sharing-Bot/) is Free Software: You can use, study share and improve it at your
+[ZERO-FILE-SHARING](https://github.com/erix-xiii/ZeroFileSharing/) is Free Software: You can use, study share and improve it at your
 will. Specifically you can redistribute and/or modify it under the terms of the
 [GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
 published by the Free Software Foundation, either version 3 of the License, or
