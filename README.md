@@ -119,8 +119,8 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 ### Credits
 
->•<b> CodeXBotz »»</b>  <a href="https://github.com/CodeXBotz/File-Sharing-Bot" alt="CodeXBotz"> <img src="https://img.shields.io/badge/CodeXBotz-30302f?logo=github" /></a> 
->• Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
+>•<b> CodeXBotz »»</b>  <a href="https://github.com/CodeXBotz/File-Sharing-Bot" alt="CodeXBotz"> <img src="https://img.shields.io/badge/CodeXBotz-30302f?logo=github" /></a> <br>
+>• Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)<br>
 >• Our Support Group Members
 
 ### Licence
