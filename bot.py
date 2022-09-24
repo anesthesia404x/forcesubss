@@ -15,7 +15,7 @@ class Bot(Client):
             name="Bot",
             api_hash=API_HASH,
             api_id=APP_ID,
-            zero={
+            plugins={
                 "root": "zero"
             },
             workers=TG_BOT_WORKERS,
