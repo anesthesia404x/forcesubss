@@ -39,7 +39,7 @@
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
-      "value": "Hello {mention}\n<b>Content is only for member ‼️</b>\n\n 1️⃣ • click <b>˹Join Channel˼</b> and Join and back here,\n 2️⃣ • then click <b>˹Try Again˼</b>.\n\n  1️⃣ • klik <b>˹Join Channel˼</b> join lalu kembali kesini.\n 2️⃣ • lalu klik <b>˹Try Again˼</b> dan konten akan terbuka.\n\n<b>Thanks.</b>"
+      "value": "Hello {mention}\n<b>Content is only for member ‼️</b>\n\n 1️⃣ • click ●<b>˹Join Channel˼</b>●\nJoin and back here,\n 2️⃣ • then click ●<b>˹Try Again˼</b>●.\n══════════════════════\n 1️⃣ • klik ●<b>˹Join Channel˼</b>●\nJoin lalu kembali kesini.\n 2️⃣ • lalu klik ●<b>˹Try Again˼</b>● dan konten akan terbuka.\n\n<b>Thanks</b> 🌟🌟🌟🌟🌟"
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
