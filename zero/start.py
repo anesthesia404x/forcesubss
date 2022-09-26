@@ -18,7 +18,7 @@ from database.sql import add_user, query_msg, full_userbase
 
 WAIT_MSG = """"<b>🙄Processing ...</b>"""
 
-REPLY_ERROR = """<code>Use this command as a replay to any telegram message with out any spaces.</code>"""
+REPLY_ERROR = """<code>Use this command as a replay to any telegram message with out any spaces.\nGunakan perintah ini sebagai replay ke pesan telegram apa pun tanpa spasi.</code>"""
 
 #=====================================================================================##
 
@@ -117,7 +117,7 @@ async def not_joined(client: Client, message: Message):
     buttons = [
         [
             InlineKeyboardButton(
-                "ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ",
+                "Join Channel",
                 url = client.invitelink)
         ]
     ]
@@ -125,7 +125,7 @@ async def not_joined(client: Client, message: Message):
         buttons.append(
             [
                 InlineKeyboardButton(
-                    text = 'ᴛʀʏ ᴀɢᴀɪɴ',
+                    text = 'Try Again',
                     url = f"https://t.me/{client.username}?start={message.command[1]}"
                 )
             ]
