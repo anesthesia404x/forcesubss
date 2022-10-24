@@ -16,6 +16,8 @@ from database.sql import add_user, query_msg, full_userbase
 
 #=====================================================================================##
 
+START_VID = "https://telegra.ph/file/d7b8dcef59c5d71d2b7c7.mp4"
+
 WAIT_MSG = """"<b>🙄Processing ...</b>"""
 
 REPLY_ERROR = """<code>Use this command as a replay to any telegram message with out any spaces.\nGunakan perintah ini sebagai replay ke pesan telegram apa pun tanpa spasi.</code>"""
@@ -98,7 +100,7 @@ async def start_command(client: Client, message: Message):
                 ]
             ]
         )
-        await message.reply_text(
+        await message.reply_video(START_VID, 
             text = START_MSG.format(
                 first = message.from_user.first_name,
                 last = message.from_user.last_name,
