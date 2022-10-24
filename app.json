@@ -53,8 +53,7 @@
     }, 
     "DATABASE_URL": {
       "description": "",
-      "value": "",
-      "required": True
+      "value": ""
     }
   },
   "buildpacks": [
