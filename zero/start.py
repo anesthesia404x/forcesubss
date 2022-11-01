@@ -135,7 +135,7 @@ async def not_joined(client: Client, message: Message):
         pass
 
     await message.reply(
-        text = "Hello {message.from_user.mention}\nContent is only for member ‼️\n1️⃣ • click  ˹Join Channel˼ Join and back here,\n2️⃣ • then click  ˹Try Again˼.\n══════════════════════ \n1️⃣ • klik  ˹Join Channel˼ Join lalu kembali kesini.\n2️⃣ • lalu klik  ˹Try Again˼ dan konten akan terbuka.\nThanks 🌟🌟🌟🌟🌟", 
+        text = "Hello 🍻\nContent is only for member ‼️\n1️⃣ • click  ˹Join Channel˼ Join and back here,\n2️⃣ • then click  ˹Try Again˼.\n══════════════════════ \n1️⃣ • klik  ˹Join Channel˼ Join lalu kembali kesini.\n2️⃣ • lalu klik  ˹Try Again˼ dan konten akan terbuka.\nThanks 🌟🌟🌟🌟🌟", 
       #  text = FORCE_MSG.format(
       #          first = message.from_user.first_name,
       #          last = message.from_user.last_name,
