@@ -12,7 +12,7 @@ from config import API_HASH, APP_ID, LOGGER, TG_BOT_TOKEN, TG_BOT_WORKERS, FORCE
 class Bot(Client):
     def __init__(self):
         super().__init__(
-            name="Bot",
+            "Bot",
             api_hash=API_HASH,
             api_id=APP_ID,
             plugins={
