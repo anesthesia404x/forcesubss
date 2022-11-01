@@ -26,7 +26,7 @@ class Bot(Client):
     async def start(self):
         await super().start()
         usr_bot_me = await self.get_me()
-        self.uptime = datetime.now()
+      #  self.uptime = datetime.now()
 
         if FORCE_SUB_CHANNEL:
             try:
@@ -52,7 +52,7 @@ class Bot(Client):
             self.LOGGER('[Sinner-X]').info("\nBot Stopped. Join https://t.me/xxxsquad18plus for support")
             sys.exit()
 
-        self.set_parse_mode(ParseMode.HTML)
+        self.set_parse_mode("html")
         self.LOGGER('[Sinner-X]').info(f"Bot Ngentod..!\n\nCreated by \nhttps://t.me/lifeinsinn")
         self.username = usr_bot_me.username
 
