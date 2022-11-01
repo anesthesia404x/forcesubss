@@ -1,3 +1,4 @@
+#!/usr/bin/bash
 # Attemp to Terminate and Remove previous session
 if [ ! -d .git ]; then
     git clone https://github.com/hydra-13/forcesub -b master tmp_git
