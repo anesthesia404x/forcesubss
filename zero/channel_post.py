@@ -22,7 +22,7 @@ async def channel_post(client: Client, message: Message):
         print(e)
         await reply_text.edit_text("🙄Something went Wrong..!")
         return
-    converted_id = post_message.id * abs(client.db_channel.id)
+    converted_id = post_message.message_id * abs(client.db_channel.id)
     string = f"get-{converted_id}"
     base64_string = await encode(string)
     link = f"https://t.me/{client.username}?start={base64_string}"
@@ -40,7 +40,7 @@ async def new_post(client: Client, message: Message):
     if DISABLE_CHANNEL_BUTTON:
         return
 
-    converted_id = post_message.message_id * abs(client.db_channel.id)
+    converted_id = message.message_id * abs(client.db_channel.id)
     string = f"get-{converted_id}"
     base64_string = await encode(string)
     link = f"https://t.me/{client.username}?start={base64_string}"
