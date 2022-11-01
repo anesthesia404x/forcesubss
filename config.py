@@ -1,7 +1,8 @@
 import os
 import logging
-from logging.handlers import RotatingFileHandler
 from dotenv import load_dotenv
+from logging.handlers import RotatingFileHandler
+
 
 load_dotenv("config.env")
 
