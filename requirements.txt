@@ -9,5 +9,4 @@ python-dotenv
 gitpython
 wget
 speedtest-cli
-TgCrypto
 # ------------------------ #
