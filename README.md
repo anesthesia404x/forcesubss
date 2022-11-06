@@ -45,7 +45,6 @@ I Guess This Will Be Usefull For Many People.....😇.
 ##
 ### 📡 Deploy on Heroku
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/hydra-13/forcesub"><img src="https://img.shields.io/badge/Deploy%20Zeʀo~x%20To%20Heʀoku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 <p align="center">ᴛᴏ ʙᴇ sᴀғᴇ ғᴏʀᴋ ᴛʜɪs ʀᴇᴘᴏ ᴀɴᴅ ᴛʜᴇɴ ʜɪᴛ ᴅᴇᴘʟᴏʏ ʙᴜᴛᴛᴏɴ ғʀᴏᴍ ᴛʜᴇ ғᴜᴄᴋɪɴ ғᴏʀᴋᴇᴅ ʀᴇᴘᴏ</p>
 
