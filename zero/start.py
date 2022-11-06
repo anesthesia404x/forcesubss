@@ -135,14 +135,14 @@ async def not_joined(client: Client, message: Message):
         pass
 
     await message.reply(
-        text = "Hello 🍻\nContent is only for member ‼️\n1️⃣ • click  ˹Join Channel˼ Join and back here,\n2️⃣ • then click  ˹Try Again˼.\n══════════════════════ \n1️⃣ • klik  ˹Join Channel˼ Join lalu kembali kesini.\n2️⃣ • lalu klik  ˹Try Again˼ dan konten akan terbuka.\nThanks 🌟🌟🌟🌟🌟", 
-      #  text = FORCE_MSG.format(
-      #          first = message.from_user.first_name,
-      #          last = message.from_user.last_name,
-      #          username = None if not message.from_user.username else '@' + message.from_user.username,
-      #          mention = message.from_user.mention,
-      #          id = message.from_user.id
-      #      ),
+     #   text = "Hello 🍻\nContent is only for member ‼️\n1️⃣ • click  ˹Join Channel˼ Join and back here,\n2️⃣ • then click  ˹Try Again˼.\n══════════════════════ \n1️⃣ • klik  ˹Join Channel˼ Join lalu kembali kesini.\n2️⃣ • lalu klik  ˹Try Again˼ dan konten akan terbuka.\nThanks 🌟🌟🌟🌟🌟", 
+        text = FORCE_MSG.format(
+                first = message.from_user.first_name,
+                last = message.from_user.last_name,
+                username = None if not message.from_user.username else '@' + message.from_user.username,
+                mention = message.from_user.mention,
+                id = message.from_user.id
+            ),
         reply_markup = InlineKeyboardMarkup(buttons),
         quote = True,
         disable_web_page_preview = True
