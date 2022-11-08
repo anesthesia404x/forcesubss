@@ -54,6 +54,14 @@ class Bot(Client):
 
         self.set_parse_mode("html")
         self.LOGGER('[Sinner-X]').info(f"Bot Ngentod..!\n\nCreated by \nhttps://t.me/lifeinsinn")
+        self.LOGGER('[Sinner-X]').info(f""" \n\n       
+░██████╗██╗███╗░░██╗███╗░░██╗███████╗██████╗░
+██╔════╝██║████╗░██║████╗░██║██╔════╝██╔══██╗
+╚█████╗░██║██╔██╗██║██╔██╗██║█████╗░░██████╔╝
+░╚═══██╗██║██║╚████║██║╚████║██╔══╝░░██╔══██╗
+██████╔╝██║██║░╚███║██║░╚███║███████╗██║░░██║
+╚═════╝░╚═╝╚═╝░░╚══╝╚═╝░░╚══╝╚══════╝╚═╝░░╚═╝
+                                          """)
         self.username = usr_bot_me.username
 
     async def stop(self, *args):
