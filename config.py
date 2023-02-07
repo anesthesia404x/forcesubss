@@ -1,10 +1,10 @@
 import os
 import logging
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 from logging.handlers import RotatingFileHandler
 
 
-load_dotenv("config.env")
+#load_dotenv("config.env")
 
 TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
 APP_ID = int(os.environ.get("APP_ID", "0"))
