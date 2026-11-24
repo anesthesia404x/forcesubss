@@ -50,6 +50,9 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 <p align="center"><b>☣ ғᴏʀᴋ ᴅᴇᴘʟᴏʏ ɪs ғᴜᴄᴋɪɴ ʀᴇᴄᴏᴍᴍᴇɴᴅᴇᴅ ☣</b></p>
 
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/anesthesia404x/Forcesubss"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
 
 
